@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SimpleblogApplication<simpleblog>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cypherpoll0.simpleblog.SimpleblogApplication",
+            "projectName": "simpleblog",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
